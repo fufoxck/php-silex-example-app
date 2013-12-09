@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__.'/../vendor/autoload.php';
+/*require_once __DIR__.'/../vendor/autoload.php';
 
 use Symfony\Component\HttpFoundation\Request;
 
@@ -29,4 +29,5 @@ $app->get('/', function() use ($app) {
     return $app['twig']->render('hello.twig');
 });
 
-$app->run();
+$app->run();*/
+echo "123";
